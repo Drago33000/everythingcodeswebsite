@@ -1,0 +1,7 @@
+{
+    "watch": ["public"],
+    "ext": "html, css, js",
+    "ignore": ["node_modules"],
+    "exec": "live-server public"
+  }
+  

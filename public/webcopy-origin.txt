@@ -1,0 +1,3272 @@
+Uri: https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Rubik:wght@400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://mizzle.webestica.com/
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index.htm
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/about-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\about-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/about-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\about-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/about-v3.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\about-v3.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-delete.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-delete.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-detail.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-detail.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-notification.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-notification.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-order.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-order.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-payment-details.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-payment-details.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-projects.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-projects.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-security.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-security.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/account-wishlist.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\account-wishlist.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/assets/images/about/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/10.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/11.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\11.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/12.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\12.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/13.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\13.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/14.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\14.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/15.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\15.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/16.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\16.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/17.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\17.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/about/18.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\about\18.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/auth/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\auth\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/auth/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\auth\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/auth/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\auth\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/10.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/11.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\11.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/12.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\12.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/avatar/14.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\avatar\14.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/saas-bg-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\saas-bg-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/bg/saas-bg-3.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\saas-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/bg/saas-bg-5.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\saas-bg-5.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/bg/saas-bg.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\bg\saas-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by3/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by3\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/4by4/10.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\4by4\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/blog/adv.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\blog\adv.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/client/01.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\01.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/02.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\02.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/03.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\03.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/04.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\04.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/05.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\05.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/06.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\06.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/07.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\07.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/08.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\08.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/client-white/01.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\client-white\01.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/client-white/02.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\client-white\02.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/client-white/03.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\client-white\03.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/client-white/04.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\client-white\04.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/client/client-white/05.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\client\client-white\05.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/android.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\android.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/app-store.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\app-store.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/apple.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/bg-pattern-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\bg-pattern-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/bg-pattern-3.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\bg-pattern-3.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/bg-pattern-4.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\bg-pattern-4.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/bootstrap.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/comming-soon.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\comming-soon.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/cta-vector.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\cta-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/decoration-pattern-2.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\decoration-pattern-2.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/decoration-pattern.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\decoration-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/dropbox.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\dropbox.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/gicon.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\gicon.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/github.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\github.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/google-drive.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\google-drive.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/google-play.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\google-play.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/google.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\google.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/hero-finance.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\hero-finance.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/int-p1.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\int-p1.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/int-p2.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\int-p2.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/integration-2.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\integration-2.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/integration.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\integration.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/mailchimp.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\mailchimp.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/map.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\map.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/mastercard.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/microsoft.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\microsoft.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/pattern.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/paypal.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/pricing.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\pricing.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/reddit.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\reddit.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/03.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\03.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/04.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\04.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/05.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\05.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/07.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\07.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/08.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\08.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/09.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\09.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/10.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\10.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/11.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\11.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/12.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\12.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/13.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\13.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/14.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\14.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/15.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\15.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/16.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\16.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/17.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\17.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/18.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\18.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/19.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\19.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/20.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\20.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/21.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\21.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/22.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\22.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/23.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\23.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/card.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\card.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/decoration-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\decoration-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/decoration-3.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\decoration-3.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/decoration-4.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\decoration-4.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/decoration-5.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\decoration-5.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/decoration-6.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\decoration-6.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-decoration/decoration.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-decoration\decoration.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-feature.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-feature.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/saas-screen.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\saas-screen.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/elements/service.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\service.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/shopify.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\shopify.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/slack.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\slack.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/trustpilot-light.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\trustpilot-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/trustpilot-star.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\trustpilot-star.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/trustpilot.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\trustpilot.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/visa.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/elements/webflow.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\elements\webflow.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://mizzle.webestica.com/assets/images/flags/gr.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\flags\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/flags/in.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\flags\in.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/flags/sp.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\flags\sp.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/flags/uk.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\flags\uk.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/flags/us.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\flags\us.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/logo-icon.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/logo-light.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/Logo.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/assets/images/mokeup/app-placeholder.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\mokeup\app-placeholder.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/mokeup/app-placeholder2.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\mokeup\app-placeholder2.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/mokeup/app-placeholder3.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\mokeup\app-placeholder3.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/mokeup/app-placeholder4.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\mokeup\app-placeholder4.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/mokeup/app-placeholder5.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\mokeup\app-placeholder5.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/mokeup/app-placeholder6.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\mokeup\app-placeholder6.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/case-study-01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\case-study-01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/case-study-02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\case-study-02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/list/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\list\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/list/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\list\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/list/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\list\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/list/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\list\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/masonry/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\masonry\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/showcase/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\showcase\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/showcase/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\showcase\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/showcase/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\showcase\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/showcase/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\showcase\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/portfolio/showcase/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\portfolio\showcase\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/products/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/products/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/products/03.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\03.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/products/04.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\04.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/products/05.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\05.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/products/detail-img.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\detail-img.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/products/hero-img.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\hero-img.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/products/video-img.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\products\video-img.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/03.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\03.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/04.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\04.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/05.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\05.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/06.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\06.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/07.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\07.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/08.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\08.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/09.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\09.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/10.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\10.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/bg/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/bg/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\bg\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/bg/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\bg\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/bg/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\bg\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/bg/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\bg\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/game.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\game.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/shop/review/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\review\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/review/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\review\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/review/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\review\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/review/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\review\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/review/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\review\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/review/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\review\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/shop/watch-01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\shop\watch-01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/assets/images/stories/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\stories\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/stories/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\stories\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/stories/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\stories\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/stories/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\stories\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/stories/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\stories\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/4by4/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\4by4\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/4by4/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\4by4\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/4by4/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\4by4\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/4by4/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\4by4\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/4by4/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\4by4\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/images/team/4by4/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\images\team\4by4\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/assets/js/functions.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\js\functions.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/aos/aos.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/assets/vendor/aos/aos.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\aos\aos.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/bootstrap-icons/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: application/font-woff
+
+Uri: https://mizzle.webestica.com/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/assets/vendor/font-awesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\font-awesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/assets/vendor/glightbox/css/glightbox.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\glightbox\css\glightbox.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/assets/vendor/glightbox/js/glightbox.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\glightbox\js\glightbox.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/imagesLoaded/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\imagesLoaded\imagesloaded.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/isotope/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\isotope\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/ityped/index.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\ityped\index.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/jarallax/jarallax-video.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\jarallax\jarallax-video.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/jarallax/jarallax.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\jarallax\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/pswmeter/pswmeter.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\pswmeter\pswmeter.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/purecounterjs/dist/purecounter_vanilla.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\purecounterjs\dist\purecounter_vanilla.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/stepper/css/bs-stepper.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\stepper\css\bs-stepper.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/assets/vendor/stepper/js/bs-stepper.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\stepper\js\bs-stepper.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/sticky-js/sticky.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\sticky-js\sticky.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/assets/vendor/swiper/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/assets/vendor/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\assets\vendor\swiper\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/blog-grid.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\blog-grid.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/blog-list-sidebar.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\blog-list-sidebar.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/blog-single-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\blog-single-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/blog-single-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\blog-single-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/career-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\career-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/career.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\career.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/coming-soon.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\coming-soon.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/contact-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\contact-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/contact-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\contact-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/customer-stories.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\customer-stories.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/customer-story-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\customer-story-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/alerts.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\alerts.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/assets/css/doc.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\css\doc.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/css/prism.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\css\prism.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/css/style.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\css\style.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/avatar/14.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\avatar\14.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/bg/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/bg/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\bg\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/bg/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\bg\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/bg/saas-bg-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\bg\saas-bg-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/bg/saas-bg-3.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\bg\saas-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/bg/saas-bg-5.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\bg\saas-bg-5.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/bg/saas-bg.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\bg\saas-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/client/01.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\client\01.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/client/02.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\client\02.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/client/03.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\client\03.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/client/04.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\client\04.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/app-store.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\app-store.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/bg-pattern-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\bg-pattern-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/bg-pattern-3.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\bg-pattern-3.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/bg-pattern-4.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\bg-pattern-4.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/decoration-pattern.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\decoration-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/gicon.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\gicon.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/google-play.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\google-play.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/google.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\google.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/hero-finance.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\hero-finance.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/03.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\03.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/04.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\04.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/05.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\05.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/13.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\13.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/14.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\14.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/15.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\15.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/saas-decoration/card.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\saas-decoration\card.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/slack.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\slack.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/trustpilot-light.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\trustpilot-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/trustpilot-star.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\trustpilot-star.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/trustpilot.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\trustpilot.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/elements/webflow.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\elements\webflow.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://mizzle.webestica.com/docs/assets/images/files_after_gulp_install.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\files_after_gulp_install.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/gulp_install_step1.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\gulp_install_step1.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/gulp_install_step2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\gulp_install_step2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/header/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\header\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/header/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\header\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/header/main-bg.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\header\main-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/10.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/hero/main-bg.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\hero\main-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/how_to_run_gulp.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\how_to_run_gulp.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/logo-light.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/Logo.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/docs/assets/images/mokeup/app-placeholder.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\mokeup\app-placeholder.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/mokeup/app-placeholder2.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\mokeup\app-placeholder2.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/portfolio/list/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\portfolio\list\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/portfolio/list/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\portfolio\list\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/products/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\products\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/products/hero-img.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\products\hero-img.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/shop/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\shop\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/docs/assets/images/shop/bg/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\shop\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/shop/bg/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\shop\bg\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/slide/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\slide\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/slide/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\slide\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/slide/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\slide\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/slide/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\slide\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/slide/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\slide\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/images/slide/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\images\slide\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/docs/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/js/clipboard.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\js\clipboard.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/js/functions.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\js\functions.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/js/prism.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\js\prism.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/js/simple-scrollbar.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\js\simple-scrollbar.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/aos/aos.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/aos/aos.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\aos\aos.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/bootstrap-icons/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: application/font-woff
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/font-awesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\font-awesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/glightbox/css/glightbox.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\glightbox\css\glightbox.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/glightbox/js/glightbox.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\glightbox\js\glightbox.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/ityped/index.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\ityped\index.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/purecounterjs/dist/purecounter_vanilla.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\purecounterjs\dist\purecounter_vanilla.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/swiper/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/docs/assets/vendor/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\assets\vendor\swiper\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/docs/avatar.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\avatar.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/badges.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\badges.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/breadcrumb.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\breadcrumb.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/buttons.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\buttons.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/changelog.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\changelog.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/color-scheme.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\color-scheme.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/customization.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\customization.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/dark-mode.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\dark-mode.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/font-icons.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\font-icons.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/fonts.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\fonts.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/google-map.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\google-map.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/gulp.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\gulp.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/index.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\index.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/logo-settings.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\logo-settings.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/nav-and-tabs.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\nav-and-tabs.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/page-loading.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\page-loading.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/pagination.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\pagination.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/progress.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\progress.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-header-1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-header-1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-header-2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-header-2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-10.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-10.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-3.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-3.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-4.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-4.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-5.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-5.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-6.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-6.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-7.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-7.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-8.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-8.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippet-hero-9.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippet-hero-9.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippets-header.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippets-header.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippets-hero.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippets-hero.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/snippets.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\snippets.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/sources-and-credits.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\sources-and-credits.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/sticky-element.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\sticky-element.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/support.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\support.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/swiper-slider.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\swiper-slider.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/updates.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\updates.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/docs/utility-classes.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\docs\utility-classes.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/error-404.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\error-404.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/faq.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\faq.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/feature-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\feature-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/features.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\features.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/forgot-password.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\forgot-password.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/help-center-detail.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\help-center-detail.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/help-center.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\help-center.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-creative-agency.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-creative-agency.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-landing-product.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-landing-product.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-mobile-app-showcase.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-mobile-app-showcase.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-saas-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-saas-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-saas-v3.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-saas-v3.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-saas-v4.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-saas-v4.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-saas-v5.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-saas-v5.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-saas.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-saas.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index-shop.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index-shop.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/index.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\index.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/integration-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\integration-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/integrations.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\integrations.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/portfolio-case-studies-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\portfolio-case-studies-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/portfolio-case-studies-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\portfolio-case-studies-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/portfolio-list.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\portfolio-list.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/portfolio-masonry.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\portfolio-masonry.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/portfolio-showcase.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\portfolio-showcase.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/pricing.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\pricing.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index.htm
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/about-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\about-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/about-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\about-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/about-v3.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\about-v3.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/account-delete.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\account-delete.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/account-detail.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\account-detail.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/account-order.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\account-order.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/account-payment-details.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\account-payment-details.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/account-security.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\account-security.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/account-wishlist.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\account-wishlist.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/assets/css/style-rtl.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\css\style-rtl.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/10.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/11.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\11.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/12.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\12.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/13.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\13.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/14.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\14.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/15.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\15.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/16.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\16.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/17.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\17.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/about/18.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\about\18.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/auth/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\auth\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/auth/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\auth\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/auth/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\auth\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/10.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/11.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\11.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/12.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\12.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/avatar/14.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\avatar\14.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/saas-bg-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\saas-bg-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/saas-bg-3.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\saas-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/saas-bg-5.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\saas-bg-5.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/bg/saas-bg.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\bg\saas-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by3/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by3\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/4by4/10.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\4by4\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/blog/adv.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\blog\adv.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/01.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\01.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/02.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\02.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/03.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\03.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/04.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\04.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/05.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\05.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/06.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\06.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/07.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\07.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/08.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\08.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/client-white/01.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\client-white\01.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/client-white/02.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\client-white\02.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/client-white/03.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\client-white\03.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/client-white/04.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\client-white\04.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/client/client-white/05.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\client\client-white\05.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/android.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\android.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/app-store.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\app-store.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/apple.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/bg-pattern-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\bg-pattern-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/bg-pattern-3.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\bg-pattern-3.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/bg-pattern-4.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\bg-pattern-4.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/bootstrap.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/comming-soon.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\comming-soon.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/cta-vector.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\cta-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/decoration-pattern-2.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\decoration-pattern-2.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/decoration-pattern.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\decoration-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/dropbox.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\dropbox.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/gicon.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\gicon.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/github.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\github.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/google-drive.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\google-drive.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/google-play.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\google-play.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/google.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\google.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/hero-finance.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\hero-finance.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/int-p1.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\int-p1.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/int-p2.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\int-p2.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/integration-2.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\integration-2.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/integration.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\integration.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/mailchimp.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\mailchimp.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/map.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\map.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/mastercard.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/microsoft.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\microsoft.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/pattern.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/paypal.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/pricing.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\pricing.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/reddit.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\reddit.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/03.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\03.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/04.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\04.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/05.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\05.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/07.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\07.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/08.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\08.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/09.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\09.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/10.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\10.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/11.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\11.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/12.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\12.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/13.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\13.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/14.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\14.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/15.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\15.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/16.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\16.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/17.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\17.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/18.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\18.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/19.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\19.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/20.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\20.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/21.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\21.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/22.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\22.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/23.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\23.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/card.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\card.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/decoration-2.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\decoration-2.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/decoration-3.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\decoration-3.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/decoration-4.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\decoration-4.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/decoration-5.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\decoration-5.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/decoration-6.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\decoration-6.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-decoration/decoration.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-decoration\decoration.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-feature.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-feature.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/saas-screen.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\saas-screen.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/service.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\service.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/shopify.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\shopify.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/slack.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\slack.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/trustpilot-light.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\trustpilot-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/trustpilot-star.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\trustpilot-star.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/trustpilot.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\trustpilot.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/visa.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/elements/webflow.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\elements\webflow.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/flags/gr.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\flags\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/flags/in.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\flags\in.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/flags/sp.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\flags\sp.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/flags/uk.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\flags\uk.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/flags/us.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\flags\us.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/logo-icon.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/logo-light.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/Logo.svg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/mokeup/app-placeholder.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\mokeup\app-placeholder.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/mokeup/app-placeholder2.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\mokeup\app-placeholder2.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/mokeup/app-placeholder3.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\mokeup\app-placeholder3.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/mokeup/app-placeholder4.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\mokeup\app-placeholder4.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/mokeup/app-placeholder5.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\mokeup\app-placeholder5.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/mokeup/app-placeholder6.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\mokeup\app-placeholder6.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/case-study-01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\case-study-01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/case-study-02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\case-study-02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/list/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\list\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/list/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\list\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/list/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\list\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/list/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\list\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/masonry/09.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\masonry\09.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/showcase/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\showcase\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/showcase/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\showcase\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/showcase/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\showcase\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/showcase/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\showcase\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/portfolio/showcase/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\portfolio\showcase\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/03.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\03.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/04.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\04.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/05.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\05.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/detail-img.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\detail-img.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/hero-img.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\hero-img.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/products/video-img.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\products\video-img.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/02.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\02.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/03.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\03.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/04.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\04.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/05.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\05.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/06.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\06.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/07.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\07.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/08.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\08.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/09.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\09.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/10.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\10.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/bg/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/bg/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\bg\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/bg/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\bg\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/bg/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\bg\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/bg/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\bg\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/game.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\game.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/review/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\review\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/review/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\review\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/review/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\review\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/review/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\review\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/review/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\review\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/review/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\review\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/shop/watch-01.png
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\shop\watch-01.png
+Content Type: image/png
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/stories/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\stories\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/stories/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\stories\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/stories/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\stories\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/stories/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\stories\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/stories/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\stories\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/07.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\07.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/08.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\08.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/4by4/01.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\4by4\01.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/4by4/02.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\4by4\02.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/4by4/03.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\4by4\03.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/4by4/04.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\4by4\04.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/4by4/05.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\4by4\05.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/images/team/4by4/06.jpg
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\images\team\4by4\06.jpg
+Content Type: image/jpeg
+
+Uri: https://mizzle.webestica.com/rtl/assets/js/functions.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\js\functions.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/aos/aos.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/aos/aos.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\aos\aos.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/bootstrap-icons/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: application/font-woff
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/font-awesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\font-awesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/glightbox/css/glightbox.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\glightbox\css\glightbox.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/glightbox/js/glightbox.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\glightbox\js\glightbox.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/imagesLoaded/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\imagesLoaded\imagesloaded.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/isotope/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\isotope\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/ityped/index.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\ityped\index.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/jarallax/jarallax-video.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\jarallax\jarallax-video.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/jarallax/jarallax.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\jarallax\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/pswmeter/pswmeter.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\pswmeter\pswmeter.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/purecounterjs/dist/purecounter_vanilla.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\purecounterjs\dist\purecounter_vanilla.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/stepper/css/bs-stepper.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\stepper\css\bs-stepper.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/stepper/js/bs-stepper.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\stepper\js\bs-stepper.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/sticky-js/sticky.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\sticky-js\sticky.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/swiper/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://mizzle.webestica.com/rtl/assets/vendor/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\assets\vendor\swiper\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://mizzle.webestica.com/rtl/blog-grid.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\blog-grid.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/blog-list-sidebar.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\blog-list-sidebar.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/blog-single-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\blog-single-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/blog-single-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\blog-single-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/career-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\career-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/career.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\career.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/coming-soon.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\coming-soon.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/contact-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\contact-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/contact-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\contact-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/customer-stories.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\customer-stories.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/customer-story-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\customer-story-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/error-404.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\error-404.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/faq.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\faq.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/feature-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\feature-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/features.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\features.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/forgot-password.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\forgot-password.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/help-center-detail.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\help-center-detail.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/help-center.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\help-center.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-creative-agency.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-creative-agency.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-landing-product.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-landing-product.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-mobile-app-showcase.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-mobile-app-showcase.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-saas-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-saas-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-saas-v3.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-saas-v3.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-saas-v4.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-saas-v4.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-saas-v5.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-saas-v5.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-saas.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-saas.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index-shop.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index-shop.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/index.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\index.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/integration-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\integration-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/integrations.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\integrations.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/portfolio-case-studies-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\portfolio-case-studies-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/portfolio-case-studies-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\portfolio-case-studies-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/portfolio-list.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\portfolio-list.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/portfolio-masonry.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\portfolio-masonry.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/portfolio-showcase.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\portfolio-showcase.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/pricing.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\pricing.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/service-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\service-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/services-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\services-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/services-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\services-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/shop-cart.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\shop-cart.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/shop-checkout.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\shop-checkout.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/shop-empty-cart.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\shop-empty-cart.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/shop-grid.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\shop-grid.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/shop-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\shop-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/sign-in.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\sign-in.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/sign-up.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\sign-up.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/team.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\team.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/rtl/terms-and-condition.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\rtl\terms-and-condition.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/service-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\service-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/services-v1.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\services-v1.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/services-v2.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\services-v2.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/services.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\services.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/shop-cart.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\shop-cart.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/shop-checkout.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\shop-checkout.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/shop-empty-cart.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\shop-empty-cart.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/shop-grid.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\shop-grid.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/shop-single.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\shop-single.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/sign-in.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\sign-in.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/sign-up.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\sign-up.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/team.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\team.html
+Content Type: text/html
+
+Uri: https://mizzle.webestica.com/terms-and-condition.html
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\terms-and-condition.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-DEXFC3C67M
+File Name: C:\Downloaded Web Sites\mizzle.webestica.com\gtag\js
+Content Type: application/javascript
+
